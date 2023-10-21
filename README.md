@@ -51,14 +51,17 @@ displays time
 ## Usage
 
 1. Clone this repository to your local machine.
-  [link]
+[link](https://github.com/Ola-Mohamed/Soduoko-Game-/tree/main)
 2. Open a terminal or command prompt and navigate to the project directory.
 3. Run the exe file to start the game  
 
 
-## Flow Chart 
+## Here's a flowchart so you don't get lost
 
-[flow chart] ()
+[flow chart](https://github.com/Ola-Mohamed/Soduoko-Game-/blob/main/Image/Untitled%20Diagram.png)
+
+
+[help](https://github.com/Ola-Mohamed/Soduoko-Game-/blob/main/Image/help.png)
 
 ## Sprints Vs Burn-up graph 
 
