@@ -79,15 +79,10 @@ This Project was created due to the efforts of all the team members and their in
 
 <table>
   <tr>
-    
     <td align="center"><a href="https://github.com/engmagdykhalifa"><img src="https://avatars.githubusercontent.com/u/61296209?v=4" width="100px;" alt=""/><br /><sub><b>Magdy Khalifa</b></sub></a><br /></td>
-    
     <td align="center"><a href="https://github.com/Ola-Mohamed"><img src="https://avatars.githubusercontent.com/u/66176966?v=4" width="100px;" alt=""/><br /><sub><b>Ola Mohamed Ahmed</b></sub></a><br /></td>
-    
     <td align="center"><a href="https://github.com/AhmedGamalEldesawy"><img src="https://avatars.githubusercontent.com/u/56696104?v=4" width="100px;" alt=""/><br /><sub><b>Ahmed Gamal</b></sub></a><br /></td>
-    
     <td align="center"><a href="https://github.com/Fatma-mosaad"><img src="https://avatars.githubusercontent.com/u/66510024?v=4" width="100px;" alt=""/><br /><sub><b>Fatma Mosaad</b></sub></a><br /></td>
-    
     <td align="center"><a href=""><img src="https://avatars.githubusercontent.com/u/66162676?v=4" width="100px;" alt=""/><br /><sub><b>Elaf Mohamed</b></sub></a><br /></td>
     </tr>
 </table>
