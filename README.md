@@ -53,21 +53,22 @@ displays time
 1. Clone this repository to your local machine.
 [link](https://github.com/Ola-Mohamed/Soduoko-Game-/tree/main)
 2. Open a terminal or command prompt and navigate to the project directory.
-3. Run the exe file to start the game  
+3. Run the exe file to start the game
+   [exe](https://github.com/Ola-Mohamed/Soduoko-Game-/blob/main/sudoku_game_nti.exe)
 
 
 ## Here's a flowchart so you don't get lost
 
-[flow chart](https://github.com/Ola-Mohamed/Soduoko-Game-/blob/main/Image/Untitled%20Diagram.png)
+![flow chart](https://github.com/Ola-Mohamed/Soduoko-Game-/blob/main/Image/Untitled%20Diagram.png)
 
 
-[help](https://github.com/Ola-Mohamed/Soduoko-Game-/blob/main/Image/help.png)
+![help](https://github.com/Ola-Mohamed/Soduoko-Game-/blob/main/Image/help.png)
 
 ## Sprints Vs Burn-up graph 
 
-[sprints]()
+![sprints](https://github.com/Ola-Mohamed/Soduoko-Game-/blob/main/Image/Sprints.png)
 
-[Burn-up graph]()
+![Burn-up graph](https://github.com/Ola-Mohamed/Soduoko-Game-/blob/main/Image/BurnUp.png)
 
 
 ## This Project was under supervision of
